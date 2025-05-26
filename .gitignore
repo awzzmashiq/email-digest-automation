@@ -1,0 +1,56 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Test outputs
+*.out
+*.test
+
+# Env files
+.env
+
+# Credentials file (DON’T TRACK THIS!)
+credentials.json
+
+# PyCharm or VSCode project files (optional)
+.idea/
+.vscode/
+
+# PIP wheel files
+*.whl
+
+# Compiled object files
+*.so
+
+# Coverage files
+*.cover
+*.py,cover
+
+# MyPy
+.mypy_cache/
+
+# Pytest cache
+.pytest_cache/
+
+# build
+build/
+dist/
+*.egg-info/
