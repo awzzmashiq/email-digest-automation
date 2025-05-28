@@ -120,7 +120,6 @@ pluggy==1.0.0
 prometheus-client==0.17.1
 prompt-toolkit==3.0.39
 proto-plus==1.26.1
-protobuf==5.29.4
 psutil==5.9.5
 pure-eval==0.2.2
 py==1.11.0
