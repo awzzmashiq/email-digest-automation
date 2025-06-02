@@ -30,7 +30,6 @@ protobuf
 python-dotenv==0.21.0
 requests==2.31.0
 tqdm==4.67.1
-torch==2.1.0
 transformers==4.52.3
 urllib3==2.0.4
 Werkzeug==2.2.2
